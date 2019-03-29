@@ -1,8 +1,12 @@
-#include <stdio.h>
-#include <math.h>
+#include <bits/stdc++.h>
+using namespace std;
+
 #define PI 3.1415
 
 int main(){
+
+  ios::sync_with_stdio(false);
+  cin.tie(NULL);
 
   long long int r, l, v, resto;
 
