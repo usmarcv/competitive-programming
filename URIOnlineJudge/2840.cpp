@@ -8,7 +8,7 @@ int main(){
 
   scanf("%lld %lld",&r,&l);
 
-  v =  1.333333333 * (PI*(pow(r,3)));
+  v = (4.0/3) * (PI*(pow(r,3)));
 
   printf("%lld\n",l/v);
 
