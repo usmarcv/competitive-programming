@@ -14,7 +14,7 @@ int main(){
 	while(n--){
 	
 		cin >> x >> y;
-   
+  
 	  calc[0] = (3 * x * x * 3) + (y * y);
     calc[1] = 2 * ( x * x ) + (5 * y * y * 5);
     calc[2] = (y * y * y) - (100 * x);
