@@ -20,7 +20,7 @@ int main(){_
 		cout << ans << endl;
 		ans = 0;
 		numeros.clear();
-	}	
+		}	
 	return 0;
 
 }
