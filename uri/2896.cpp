@@ -1,20 +1,17 @@
-#include <bits/stdc++.h>
-#define ll long long
-#define endl '\n' 
-using namespace std;
+#include <stdio.h>
 
-#define MOD 1000000007
+int main() {
 
-int main(){
-	
-	ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-	int c;
-	
-	cin >> c;
-	while(c--){
+    short t, n, k;
 
-	}
+    scanf("%hd",&t);
 
-	return 0;
+    while(t--){
+        scanf("%hd %hd",&n,&k);
+        
+        printf("%hd\n", (n%k) + (n/k));
+    }
+
+    return 0;
 }
 
