@@ -16,6 +16,7 @@ int main(){_
 					 D[tam]++;	
 					else E[tam]++;
     }
+
 		ans = 0;
     for(int i = 0; i < 112; i++)
      		 ans += min(D[i], E[i]);
