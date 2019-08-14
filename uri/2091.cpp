@@ -15,7 +15,7 @@ int main(){
           cin >> num;
           ans ^= num;
       }
- cout << ans << endl;   
+	 cout << ans << endl;   
  }
 
 	return 0;
