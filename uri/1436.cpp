@@ -19,6 +19,6 @@ int main(){
 		}
 		cout << "Case " << i <<": " << vet[n/2] << "\n";
 	}
-	//é muito simples, no Ceará nós resolvemos assim!
+	//é muito simples, no Ceará nós resolvemos assim!!!
 	return 0;
 }
