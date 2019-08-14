@@ -10,6 +10,7 @@ int main(){
 	double qt, menor = 11;
 
 	while(cin >> t){
+
 		menor = 11;
 		for(int i = 0; i < t; i++){
 			cin >> qt;
