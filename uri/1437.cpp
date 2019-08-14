@@ -16,6 +16,7 @@ int main(){_
 		}
 			cout << ans[pos] << endl;
 	}
+
 	return 0;
 
 }
