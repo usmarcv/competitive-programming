@@ -16,7 +16,6 @@ int main(){
     sort(v.rbegin(), v.rend());
     cout << v[1].second << endl;
 	}
-
 	return 0;
 }
 
