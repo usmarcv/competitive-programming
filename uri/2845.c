@@ -22,4 +22,6 @@ int main(){
 
 	printf("%d\n",v[0]+1);
 
+	return 0;
+
 }
