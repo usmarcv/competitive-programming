@@ -46,7 +46,7 @@ int main(){
                 break;
 
   }
-    printf("%s\n",resposta);
+  printf("%s\n",resposta);
     
   return 0;
 }
