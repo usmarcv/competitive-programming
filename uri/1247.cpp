@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+
 	ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 	double d, vf, vg, distance, distGuard = 0.0 , distThief = 0.0;
 	
