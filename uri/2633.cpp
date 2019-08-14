@@ -9,6 +9,7 @@ bool compare(const pair<string, int> &a, const pair<string, int> &b){
 int main(){
 	ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 	vector <pair<string,int>> v;
+
 	int n, data;
 	string peca;
 	
