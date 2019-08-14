@@ -3,6 +3,7 @@ using namespace std;
 
 #define ll long long 
 bool PRIMEPORRA(ll x){
+
 	if(x < 0) x = -x;
 	if(x < 5 or x % 2 == 0 or x % 3 == 0){
 			return (x == 2 || x == 3);
