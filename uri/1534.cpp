@@ -18,9 +18,8 @@ int main(){ __
       }
       cout << endl;
     }
-
   }  
-  
+	  
 	return 0;
 }
 
