@@ -16,11 +16,12 @@ int main(){_
 				cin >> num;
 				numeros.insert(num);
 		}
-		ans = numeros.size();
-		cout << ans << endl;
-		ans = 0;
-		numeros.clear();
-		}	
+			ans = numeros.size();
+			cout << ans << endl;
+			ans = 0;
+			numeros.clear();
+		}
+			
 	return 0;
 
 }
