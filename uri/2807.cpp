@@ -27,6 +27,7 @@ int main(){
   return 0;
 } 740 ms essa disgraça
 */
+
 #include <bits/stdc++.h>
 using namespace std;
 
