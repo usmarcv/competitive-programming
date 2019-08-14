@@ -14,10 +14,8 @@ int main(){
 	ull x, y;
 	x = y = 0ULL;
 
-	while((cin >> x >> y) && x != 0ULL){
-		
+	while((cin >> x >> y) && x != 0ULL){		
 		cout <<	hammingDistance(x,y) << endl;
-
 	}
 
 	return 0;
