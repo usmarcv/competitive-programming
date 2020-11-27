@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){_
 
+
 	string s;
 	
 	while(cin >> s){
