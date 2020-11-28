@@ -32,6 +32,7 @@ int buscaBinaria(int x){
 
 int main(){_
 	
+
 	cin >> n;
 
 	memset(casas, 0, sizeof(casas));
