@@ -27,6 +27,7 @@ int buscaBinaria(int x){
 	return ans;
 }
 
+
 int main(){_
 
 	cin >> n >> m;
