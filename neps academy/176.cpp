@@ -8,7 +8,6 @@ typedef unsigned long long ull;
 
 using namespace std;
 
-
 int n, k, m;
 
 int main(){_
