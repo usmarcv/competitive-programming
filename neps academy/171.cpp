@@ -7,6 +7,7 @@ int main(){_
 
 	int moedas[] = {1, 5, 10, 25, 50, 100};
 	int n; 
+
 	
 	cin >> n;
 	int ans = 0;
