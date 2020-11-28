@@ -11,6 +11,7 @@ int main(){_
 	cin >> n >> m;
 	
 	int a[112345];
+
 	memset(a, 0, sizeof(a));
 
 	for(int i = 1; i <= n; i++) cin >> a[i];
