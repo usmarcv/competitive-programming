@@ -9,8 +9,8 @@ using namespace std;
 int main(){_
 
 	int g, p;
-  int chegada[112][112];
-  int sistema[112];
+	int chegada[112][112];
+	int sistema[112];
 	int pontos[112];
 	
 	while((cin >> g >> p) && (g || p)){
