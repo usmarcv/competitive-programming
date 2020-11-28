@@ -9,14 +9,12 @@ struct compromisso{
 	int ini, fim;
 };
 
-
 bool compara(compromisso a, compromisso b){
 	return a.fim < b.fim;
 }
 
 compromisso consulta[MAX];
 int N, x, y, livre, ans;
-
 
 int main(){_
 	
