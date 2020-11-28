@@ -9,6 +9,7 @@ int main(){_
 	int n, m;
 	
 	cin >> n >> m;		
+
 	memset(pinos, 0, sizeof(pinos));
 		
 	for(int i = 0; i < n; i++){
